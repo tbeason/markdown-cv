@@ -1,91 +1,67 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Tyler Beason - CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Tyler Beason
+PhD Student in Finance
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="tbeason@asu.edu">tbeason@asu.edu</a>
+| <a href="http://tbeason.com">tbeason.com</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+Studying Finance at Arizona State University.
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Asset Pricing, Macro-finance, Household Finance, Asset Allocation, Financial Economics.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2015-2020`
+__PhD in Finance,Arizona State University, Tempe, AZ__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2014-2015`
+__MS in Quantitative Finance, Bradley University, Peoria, IL__
 
-- Sizar
+`2010-2014`
+__BS in Finance, Bradley University, Peoria, IL__
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
+`2010-2014`
+__BS in Mathematics, Bradley University, Peoria, IL__
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`2015`
+Academic Excellence Award; Foster College of Business Dean’s Award for Undergraduate Research
 
-Associate, *French Academy of Science*, Paris, France
+`2014`
+Kalman Goldberg Award; Outstanding Graduate in Quantitative Methods; Dr. Alfonse and Nancy Masi International Scholars Award for Student Research; Foster College of Business Dean’s Award for Undergraduate Research; Awarded funding to attend RISE 14 Conference; I Am Brave Award
 
+### Teaching
 
+`2016`
+- Instructor
+Research Methods (PhD, ASU)
 
-## Publications
+- Teaching Assistant
+Security Analysis and Portfolio Management (Undergraduate, ASU)
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+### Service
 
-### Journals
+`2016-2017`
+Finance Doctoral Committee (Arizona State University)
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+`2015-2016`
+Foster College of Business Curriculum Committee (Bradley University)
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Feb 2017 -->
 
 
